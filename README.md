@@ -130,7 +130,7 @@ Pensamos esta como uma página simples, com textos informativos sobre as caracte
 Os testes de usabilidade foram realizados com usuários reais, que tiveram a experiência de acessar o site e explorá-lo, buscando informações sobre as casas e os personagens de seu interesse. Após isso, os usuários preencheram um formulário onde relataram seu ponto de vista e ofereceram sugestões de melhorias. 
 
 ### 4.1 Problemas encontrados
-
+Um dos principais problemas apontados pelos usuários é o tempo que a página leva para carregar todos os cards. Isso acontece devido ao método que escolhemos para desenhar os cards, o que leva tempo. Por conta disso, a cada vez que o usuário seleciona um filtro, todos os cards precisam ser redesenhados. Um outro problema acusado foi o fato de que no navegador Firefox as configurações do efeito de "flip" não funcionam e os cards são apresentados de forma irregular.- 
 
 ## 5. Testes unitários
 ![unit-test](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/unit-test.jpeg)
