@@ -37,7 +37,7 @@ https://talitamsx.github.io/SAP009-data-lovers/src/
 
 
 ## 2. História de Usuário Um
-![INSERIR FOTO User-story-1](https://github.com/talitamsx/SAP009-data-lovers/raw/main/src/githubImgs/User-story-1.png)
+![INSERIR FOTO User-story-1](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/User-story-1.jpg)
 
 ## 2.1 Definição de Pronto
 
@@ -96,7 +96,7 @@ Refletimos então sobre a quantidade de personagens e sobre como, apesar dos fil
 
 
 ## 3. História de Usuário Dois
-![User Story 2](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/User-story-2.png)
+![User Story 2](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/User-story-2.jpg)
 
 ## 3.1 Definição de Pronto
 ### Revisão de Design 
@@ -121,7 +121,7 @@ Usuários preencherão forms sobre a navegação do site.
 Adaptável a todas telas, é possível acessar em todas as plataformas digitais.
 
 ## 3.2 Protótipo de Baixa Fidelidade
-![Houses Prototype](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/low-fidelity-prototype-house.jpeg)
+![Houses Prototype](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/low-fidelity-prototype-house.jpg)
 
 Pensamos esta como uma página simples, com textos informativos sobre as características de cada casa de Hogwarts e cáculos informando a quantidade de personagens pertencentes a cada casa.
 
@@ -133,7 +133,8 @@ Os testes de usabilidade foram realizados com usuários reais, que tiveram a exp
 Um dos principais problemas apontados pelos usuários é o tempo que a página leva para carregar todos os cards. Isso acontece devido ao método que escolhemos para desenhar os cards, o que leva tempo. Por conta disso, a cada vez que o usuário seleciona um filtro, todos os cards precisam ser redesenhados. Um outro problema acusado foi o fato de que no navegador Firefox as configurações do efeito de "flip" não funcionam e os cards são apresentados de forma irregular. 
 
 ## 5. Testes unitários
-![unit-test](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/unit-test.jpeg)
+![unit-test](https://github.com/talitamsx/SAP009-data-lovers/blob/main/src/githubImgs/unit-test.jpg)
+
 Os testes unitários cobriram um total de 100% de statements, branches, functions e lines.
 
 
